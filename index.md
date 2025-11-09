@@ -18,9 +18,7 @@ _Please remember to review the BoF, if you attend! Use the "Give Feedback" butto
 Additional panelists are currently being confirmed! We anticipate having 5-6 panelists.
 
 - [Teresa Cervero García](https://www.bsc.es/cervero-garcia-teresa) - BSC
-
 - [Kristel Michielsen](https://sc25.conference-program.com/presenter/?uid=530383) - RWTH Aachen University
-
 - [Miwako Tsuji](https://sc25.conference-program.com/presenter/?uid=683163) - RIKEN Center for Computational Science
 
 ## Organizers:
