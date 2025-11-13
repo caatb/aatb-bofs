@@ -13,13 +13,28 @@ Room: 126 ([Map](https://sc25.conference-program.com/map/?location=r126))
 
 _Please remember to review the BoF, if you attend! Use the "Give Feedback" button on the session page._
 
+This year's BoF session will have a focus on testbeds that support emerging technology research related to hybrid classical-quantum systems, open source hardware (RISC-V), and emerging AI accelerators.
+
 ## Panelists: 
 
-Additional panelists are currently being confirmed! We anticipate having 5-6 panelists.
-
+- [Nick Brown](https://www.epcc.ed.ac.uk/about-us/our-team/dr-nick-brown) - EPCC
 - [Teresa Cervero García](https://www.bsc.es/cervero-garcia-teresa) - BSC
+- [Mosè Giordano](https://giordano.github.io/aboutme/) - UCL
 - [Kristel Michielsen](https://sc25.conference-program.com/presenter/?uid=530383) - RWTH Aachen University
+- [Amir Shehata](https://www.ornl.gov/staff-profile/amir-shehata) - ORNL
 - [Miwako Tsuji](https://sc25.conference-program.com/presenter/?uid=683163) - RIKEN Center for Computational Science
+
+## Questions for the Panel
+
+We also include some questions from previous BoFs to use as seed questions for further discussion. See the included slides from last year for some of the captured BoF discussion with attendees.
+    - [Slides with Questions for Panel and Questions from BoF Attendees](https://github.com/caatb/aatb-bofs/blob/178760cc0f370b0fe7c4501e34986d418a3a3091/presentations/2024/advanced_arch_playgrounds_panelist_questions_aatb_bof_sc24.pdf)
+
+1) What are the goals of your testbed program?
+2) How are you envisioning using your testbeds to evaluate the latest AI or quantum computing technologies?
+3) How are your testbeds being updated for post-exascale computing evaluations?
+    - (optional) If you could change one architectural component of your test bed to make it better, what would this component be and why?
+4) How do users use your testbed? What are the costs from a user learning and training perspective of accessing quantum resources?
+5) Lessons learned: Can you share the key successes and challenges experienced during your testbed programs?
 
 ## Organizers:
 
@@ -28,18 +43,6 @@ Additional panelists are currently being confirmed! We anticipate having 5-6 pan
 - [Filippo Spiga](https://sc25.conference-program.com/presenter/?uid=510093) - NVIDIA
 - [Jeffrey Young](https://sc25.conference-program.com/presenter/?uid=666163) - [Georgia Tech - CRNCH Rogues Gallery](https://crnch-rg.cc.gatech.edu/)
     - [CRNCH RG Testbed Slides](https://github.com/caatb/aatb-bofs/blob/178760cc0f370b0fe7c4501e34986d418a3a3091/presentations/2024/jyoung_crnch_rogues_gallery_aatb_bof_sc24.pdf)
-
-## Questions for the Panel
-
-We also include some questions from previous BoFs to use as seed questions for further discussion. See the included slides from last year for some of the captured BoF discussion with attendees.
-    - [Slides with Questions for Panel and Questions from BoF Attendees](https://github.com/caatb/aatb-bofs/blob/178760cc0f370b0fe7c4501e34986d418a3a3091/presentations/2024/advanced_arch_playgrounds_panelist_questions_aatb_bof_sc24.pdf)
-
-1) What are the goals of your testbed program?  
-2) How are you envisioning using your testbeds to evaluate **energy efficient computing technologies**?  
-3) How are your testbeds being prepared for post-exascale evaluations?  
-    - (optional) If you could change one architectural component of your test bed to make it better, what would this component be and why?  
-4) How do users use your testbed? What are the costs from a user learning and training perspective of accessing quantum resources?  
-5) Lessons learned: Can you share the key successes and challenges experienced during your testbed programs?
 
 ## Previous BoFs and Resources
 
